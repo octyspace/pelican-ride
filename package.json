@@ -1,0 +1,15 @@
+{
+  "name": "pelican-ride",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node build.mjs"
+  },
+  "dependencies": {
+    "three": "0.180.0"
+  },
+  "devDependencies": {
+    "esbuild": "0.28.2"
+  },
+  "license": "MIT"
+}
